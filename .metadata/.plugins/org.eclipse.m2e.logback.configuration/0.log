@@ -1,0 +1,27 @@
+2022-07-08 15:02:32,916 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-08 15:03:03,075 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magicbricks:com.magicbricks1:0.0.1-SNAPSHOT @ C:\elxuu\com.magicbricks1\pom.xml.
+2022-07-08 15:03:03,075 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magicbricks:com.magicbricks1:0.0.1-SNAPSHOT @ C:\elxuu\com.magicbricks1\pom.xml.
+2022-07-08 15:03:04,255 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:04,258 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\main\resources
+2022-07-08 15:03:04,260 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:04,262 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\test\resources
+2022-07-08 15:03:05,562 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magicbricks:com.magicbricks1:0.0.1-SNAPSHOT @ C:\elxuu\com.magicbricks1\pom.xml.
+2022-07-08 15:03:05,842 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:05,843 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\main\resources
+2022-07-08 15:03:05,846 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:05,848 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\test\resources
+2022-07-08 15:03:07,104 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:07,107 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\main\resources
+2022-07-08 15:03:07,108 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:07,109 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\test\resources
+2022-07-08 15:03:16,043 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-07-08 15:03:16,255 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.magicbricks:com.magicbricks1:0.0.1-SNAPSHOT @ C:\elxuu\com.magicbricks1\pom.xml.
+2022-07-08 15:03:16,560 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.magicbricks1/src/main/java
+2022-07-08 15:03:16,562 [Worker-6: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.magicbricks1/src/test/java
+2022-07-08 15:03:16,737 [Worker-6: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-07-08 15:03:17,186 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:17,187 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\main\resources
+2022-07-08 15:03:17,188 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:17,189 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\test\resources
+2022-07-08 15:03:37,277 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:37,279 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\main\resources
