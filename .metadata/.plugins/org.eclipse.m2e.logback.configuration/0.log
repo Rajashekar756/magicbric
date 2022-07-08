@@ -25,3 +25,5 @@
 2022-07-08 15:03:17,189 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\test\resources
 2022-07-08 15:03:37,277 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-07-08 15:03:37,279 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\main\resources
+2022-07-08 15:03:37,280 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-07-08 15:03:37,282 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\elxuu\com.magicbricks1\src\test\resources
